@@ -2,32 +2,32 @@
 <testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-08-30T16:34:53 GST" name="Default suite" finished-at="2025-08-30T16:35:36 GST" duration-ms="42569">
+  <suite started-at="2025-09-01T12:16:42 GST" name="Default suite" finished-at="2025-09-01T12:17:06 GST" duration-ms="24321">
     <groups>
     </groups>
-    <test started-at="2025-08-30T16:34:53 GST" name="Default test" finished-at="2025-08-30T16:35:36 GST" duration-ms="42569">
+    <test started-at="2025-09-01T12:16:42 GST" name="Default test" finished-at="2025-09-01T12:17:06 GST" duration-ms="24321">
       <class name="Carttest.AutomationExercise">
-        <test-method is-config="true" signature="setup()[pri:0, instance:Carttest.AutomationExercise@158a3b2e]" started-at="2025-08-30T16:34:53 GST" name="setup" finished-at="2025-08-30T16:35:00 GST" duration-ms="6886" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Carttest.AutomationExercise@1d131e1b]" started-at="2025-09-01T12:16:42 GST" name="setup" finished-at="2025-09-01T12:16:45 GST" duration-ms="3714" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="login()[pri:1, instance:Carttest.AutomationExercise@158a3b2e]" started-at="2025-08-30T16:35:00 GST" name="login" finished-at="2025-08-30T16:35:15 GST" duration-ms="14716" status="PASS">
+        <test-method signature="login()[pri:1, instance:Carttest.AutomationExercise@1d131e1b]" started-at="2025-09-01T12:16:45 GST" name="login" finished-at="2025-09-01T12:16:52 GST" duration-ms="6570" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method signature="SearchProduct()[pri:2, instance:Carttest.AutomationExercise@158a3b2e]" started-at="2025-08-30T16:35:15 GST" name="SearchProduct" finished-at="2025-08-30T16:35:27 GST" duration-ms="12025" status="PASS">
+        <test-method signature="SearchProduct()[pri:2, instance:Carttest.AutomationExercise@1d131e1b]" started-at="2025-09-01T12:16:52 GST" name="SearchProduct" finished-at="2025-09-01T12:16:57 GST" duration-ms="5414" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SearchProduct -->
-        <test-method signature="Addtocart()[pri:3, instance:Carttest.AutomationExercise@158a3b2e]" started-at="2025-08-30T16:35:27 GST" name="Addtocart" finished-at="2025-08-30T16:35:31 GST" duration-ms="3800" status="PASS">
+        <test-method signature="Addtocart()[pri:3, instance:Carttest.AutomationExercise@1d131e1b]" started-at="2025-09-01T12:16:57 GST" name="Addtocart" finished-at="2025-09-01T12:17:02 GST" duration-ms="4278" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Addtocart -->
-        <test-method signature="Placeorder()[pri:4, instance:Carttest.AutomationExercise@158a3b2e]" started-at="2025-08-30T16:35:31 GST" name="Placeorder" finished-at="2025-08-30T16:35:35 GST" duration-ms="4582" status="PASS">
+        <test-method signature="Placeorder()[pri:4, instance:Carttest.AutomationExercise@1d131e1b]" started-at="2025-09-01T12:17:02 GST" name="Placeorder" finished-at="2025-09-01T12:17:06 GST" duration-ms="3958" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Placeorder -->
-        <test-method is-config="true" signature="Browserclose()[pri:0, instance:Carttest.AutomationExercise@158a3b2e]" started-at="2025-08-30T16:35:35 GST" name="Browserclose" finished-at="2025-08-30T16:35:36 GST" duration-ms="399" status="PASS">
+        <test-method is-config="true" signature="Browserclose()[pri:0, instance:Carttest.AutomationExercise@1d131e1b]" started-at="2025-09-01T12:17:06 GST" name="Browserclose" finished-at="2025-09-01T12:17:06 GST" duration-ms="314" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Browserclose -->
